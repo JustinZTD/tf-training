@@ -5,7 +5,3 @@ output "name" {
 output "name_2" {
   value = random_pet.server_2.id
 }
-
-output "name_3" {
-  value = random_pet.server_3.id
-}

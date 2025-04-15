@@ -9,3 +9,7 @@ output "name_2" {
 output "name_3" {
   value = random_pet.server_3.id
 }
+
+output "name_4" {
+  value = random_pet.server_3.id
+}
